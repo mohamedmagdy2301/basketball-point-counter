@@ -22,7 +22,7 @@ Make sure you have Flutter installed. If not, you can [install Flutter](https://
 ### Installation
 
 1. Clone the repository from GitHub:
-(`git clone https://github.com/your-username/basketball-point-counter-app.git`)
+(`git clone https://github.com/mohamedmagdy2301/basketball-point-counter.git`)
 
 2. Navigate into the project directory:
 (`cd basketball-point-counter-app`)
