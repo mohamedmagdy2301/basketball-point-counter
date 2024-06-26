@@ -17,9 +17,7 @@ This is a simple basketball point counter mobile application built using Flutter
 
 Here's a short demo of the app:
 
-![App Demo](assets/basketball_point.mp4)
-
-
+![App mp4](assets/basketball_point.mp4)
 
 ## Getting Started
 
